@@ -1,3 +1,9 @@
+# DL-DIY potential project ideas
+- extend idea to other segmentation datasets
+- extend idea to extract bounding boxes from feature maps
+- adapt to other semantic segmentation architectures
+-----------------
+
 # Triggering Failures: Out-Of-Distribution detection by learning from local adversarial attacks in Semantic Segmentation
 Victor Besnier, Andrei Bursuc, David Picard & Alexandre Briot 
 
