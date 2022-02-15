@@ -2,6 +2,7 @@
 - extend idea to other segmentation datasets
 - extend idea to extract bounding boxes from feature maps
 - adapt to other semantic segmentation architectures
+- related work: [ConfidNet](https://github.com/valeoai/ConfidNet)
 -----------------
 
 # Triggering Failures: Out-Of-Distribution detection by learning from local adversarial attacks in Semantic Segmentation
